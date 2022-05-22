@@ -2,14 +2,14 @@
 
 The tasks of this project are provisioning a Lambda function to generate near real time finance data records for interactive querying, generating a real time data pipeline for finance data records, and analyzing data based on requests.
 
-The tasks includes 3 parts:
+The tasks include 3 parts:
   - Infrastructure
     - Data Transformer
     - Data Collector
     - Data Analyzer
     - Data Visualization
   - Data Collection 
-  - Data Visulization
+  - Data Visualization
 
 ### Infrastructure
 
